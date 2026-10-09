@@ -1,46 +1,56 @@
+<div align="center">
+
 # Pablo Iván Rodríguez
-## 💫 About me
-👨🏻‍💻 Software Engineering Student with practical Full-Stack experience building desktop and backend tools.</br>
-👨🏻‍🎓 Studying [Ingeniería en informática](https://www.palermo.edu/ingenieria/ingenieria_informatica/ingenieria_informatica.html) at Universidad de Palermo, Argentina.</br>
-📖 Learning with Coursera.</br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-iván-rodríguez/)
+### Software Engineering Student · Full-Stack & Backend Development
 
----
+Building practical software that simplifies workflows, organizes data, and solves real-world problems.
 
-## 🖥️ Programming Languages 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-iván-rodríguez/)
 
-## 📦 Frameworks
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-## 💾 Databases
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## About me
 
-## ⚙️ Other
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+I'm a Software Engineering student at [Universidad de Palermo](https://www.palermo.edu/ingenieria/ingenieria_informatica/ingenieria_informatica.html) in Argentina, focused on **backend and full-stack development**.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+I enjoy turning complex requirements into reliable, usable applications—from designing interfaces and business logic to managing databases. My projects combine academic foundations with hands-on experience solving operational problems.
 
----
+I'm interested in **internships and junior software development opportunities**, particularly in backend and full-stack teams.
 
-## 🛠️ Selected projects
+## Tech stack
 
-### KariArielApp
-- Desktop app in **Python** for customer, device and finance management.
-- GUI: **CustomTkinter / PySide6**. Backend: Python, Database: **Supabase**.
-- Manages ~6000 client records. Reduced manual-entry errors ≈ 30%.
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, Java, JavaScript, C |
+| **Frontend** | React, Tailwind CSS, Bootstrap |
+| **Backend & desktop** | Python, Java, PySide6, CustomTkinter, Qt |
+| **Databases & services** | PostgreSQL, Supabase, MongoDB, Neo4j |
+| **Tools & environments** | Git, Linux |
 
-### Turnera Médica
-- Appointment scheduling system in **Java**.
-- Handles weekly appointments with validations and persistence.
+## Featured projects
+
+### OrbiCell — Business Management Application
+
+A business management application built to digitize day-to-day operations and centralize information.
+
+- Developed responsive interfaces using **React** and **Tailwind CSS**.
+- Implemented workflows for managing **customers, work orders, inventory, and finances**.
+- Focused on data organization, traceability, and reducing repetitive administrative work.
+
+**Tech:** React · Tailwind CSS · Supabase
+
+### OrbiFin — Card & Financial Management Application
+
+A software project focused on organizing and managing card-related financial information.
+
+- Designed around clear, accessible financial information management.
+- Focused on simplifying how card and financial data is organized and viewed.
+
+**Focus:** Financial management · Card management · Usability
+
+## What I'm working toward
+
+I'm continuing to strengthen my skills in software architecture, backend development, relational databases, and building maintainable full-stack applications.
+
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/pablo-iván-rodríguez/)
